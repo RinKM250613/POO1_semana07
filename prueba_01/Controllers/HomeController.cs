@@ -10,6 +10,7 @@ namespace prueba_01.Controllers
 {
     public class HomeController : Controller
     {
+        //rebu
         public ActionResult Index()
         {
             string cadenaConexion = "uid=ryllanes; database=semana07; password=Kookmin2506; server=.;";

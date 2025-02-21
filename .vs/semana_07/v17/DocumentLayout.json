@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\R\\semana_07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|D:\\R\\semana_07\\prueba_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{B1038100-4C59-497C-94D3-EF26EC48ED4F}|semana_07\\semana_07.csproj|solutionrelative:semana_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|D:\\R\\semana_07\\prueba_01\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\views\\home\\action_crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|D:\\R\\semana_07\\prueba_01\\views\\home\\action_crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\views\\home\\action_crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|D:\\R\\semana_07\\prueba_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -58,8 +58,7 @@
               "RelativeToolTip": "prueba_01\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T14:38:04.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T14:38:04.379Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "prueba_01\\Views\\Home\\ACTION_CREAR.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T14:37:03.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T14:37:03.764Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "prueba_01\\Models\\Persona.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T14:27:12.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T14:27:12.454Z"
             },
             {
               "$type": "Document",
@@ -95,7 +92,7 @@
               "RelativeDocumentMoniker": "prueba_01\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\R\\semana_07\\prueba_01\\Controllers\\HomeController.cs",
               "RelativeToolTip": "prueba_01\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T14:09:44.277Z",
               "EditorCaption": ""
@@ -110,8 +107,7 @@
               "RelativeToolTip": "semana_07\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAkwBgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:34:05.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T12:34:05.117Z"
             }
           ]
         },
