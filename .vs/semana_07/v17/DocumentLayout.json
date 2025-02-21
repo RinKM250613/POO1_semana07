@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R\\semana_07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|D:\\R\\semana_07\\prueba_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1038100-4C59-497C-94D3-EF26EC48ED4F}|semana_07\\semana_07.csproj|D:\\R\\semana_07\\semana_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1038100-4C59-497C-94D3-EF26EC48ED4F}|semana_07\\semana_07.csproj|solutionrelative:semana_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\views\\home\\action_crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\views\\home\\action_crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|d:\\r\\semana_07\\prueba_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72102A35-0905-413B-B4F3-05EB9152AFED}|prueba_01\\prueba_01.csproj|solutionrelative:prueba_01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\R\\semana_07\\prueba_01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "prueba_01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\R\\semana_07\\prueba_01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "prueba_01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:38:04.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ACTION_CREAR.cshtml",
+              "DocumentMoniker": "D:\\R\\semana_07\\prueba_01\\Views\\Home\\ACTION_CREAR.cshtml",
+              "RelativeDocumentMoniker": "prueba_01\\Views\\Home\\ACTION_CREAR.cshtml",
+              "ToolTip": "D:\\R\\semana_07\\prueba_01\\Views\\Home\\ACTION_CREAR.cshtml",
+              "RelativeToolTip": "prueba_01\\Views\\Home\\ACTION_CREAR.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T14:37:03.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\R\\semana_07\\prueba_01\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "prueba_01\\Models\\Persona.cs",
+              "ToolTip": "D:\\R\\semana_07\\prueba_01\\Models\\Persona.cs",
+              "RelativeToolTip": "prueba_01\\Models\\Persona.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:27:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\R\\semana_07\\prueba_01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "prueba_01\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\R\\semana_07\\prueba_01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "prueba_01\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:09:44.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R\\semana_07\\semana_07\\Program.cs",
+              "RelativeDocumentMoniker": "semana_07\\Program.cs",
+              "ToolTip": "D:\\R\\semana_07\\semana_07\\Program.cs",
+              "RelativeToolTip": "semana_07\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:34:05.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

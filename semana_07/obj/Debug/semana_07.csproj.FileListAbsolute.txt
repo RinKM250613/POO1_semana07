@@ -1,0 +1,7 @@
+D:\R\semana_07\semana_07\bin\Debug\semana_07.exe.config
+D:\R\semana_07\semana_07\bin\Debug\semana_07.exe
+D:\R\semana_07\semana_07\bin\Debug\semana_07.pdb
+D:\R\semana_07\semana_07\obj\Debug\semana_07.csproj.AssemblyReference.cache
+D:\R\semana_07\semana_07\obj\Debug\semana_07.csproj.CoreCompileInputs.cache
+D:\R\semana_07\semana_07\obj\Debug\semana_07.exe
+D:\R\semana_07\semana_07\obj\Debug\semana_07.pdb
